@@ -1,1 +1,1 @@
-SampleApp
+Android SampleApp 3
